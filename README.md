@@ -1,4 +1,4 @@
-## rtl8188eus v5.3.9
+## rtl8188eus v5.3.9 (Forked for safe keeping)
 
 # Realtek rtl8188eus &amp; rtl8188eu &amp; rtl8188etv WiFi drivers
 
